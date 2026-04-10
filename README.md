@@ -10,9 +10,9 @@ Electrical Engineering Undergrad @ NUST SEECS. 🚀 Exploring the world of AI Au
 | :---: | :---: |
 | ![](https://github-readme-stats.shion.dev/api?username=Hamood-pixel&show_icons=true&theme=radical&hide_border=true) | ![](https://streak-stats.demolab.com?user=Hamood-pixel&theme=radical&hide_border=true) |
 
-| 🌑 The Deep Space | 💻 Top Languages |
+| 🌌 Warp Speed | 💻 Top Languages |
 | :---: | :---: |
-| <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnYycW1oZnR5cHJqMWhmdHlwcmoxaGZ0eXByajFoZnR5cHJqMWhmdHkmaz0x/9G6H79N70f2Vj6p70P/giphy.gif" width="300px" /> | ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hamood-pixel&theme=radical&layout=compact&hide_border=true) |
+| <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJibjVqZ3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTfuxV79mE+3K0/giphy.gif" width="300px" height="285px" style="border-radius:10px;" /> | ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hamood-pixel&theme=radical&layout=donut&hide_border=true) |
 
 ---
 ### ✍️ Random Dev Quote
