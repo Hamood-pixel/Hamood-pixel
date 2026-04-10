@@ -8,16 +8,13 @@ Electrical Engineering Undergrad @ NUST SEECS. 🚀 Exploring the world of AI Au
 
 | 📈 My Stats | 🔥 Coding Streak |
 | :---: | :---: |
-| ![](https://github-readme-stats.shion.dev/api?username=Hamood-pixel&show_icons=true&theme=radical) | ![](https://streak-stats.demolab.com?user=Hamood-pixel&theme=radical) |
+| ![](https://github-readme-stats.shion.dev/api?username=Hamood-pixel&show_icons=true&theme=radical&hide_border=true) | ![](https://streak-stats.demolab.com?user=Hamood-pixel&theme=radical&hide_border=true) |
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hamood-pixel&theme=radical&layout=donut" width="45%" />
-</p>
+| 🌌 Aesthetic Pulse | 💻 Most Used Languages |
+| :---: | :---: |
+| <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="300px" height="auto" /> | ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hamood-pixel&theme=radical&layout=compact&hide_border=true) |
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJibjVqZ3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-</p>
-
+---
 ### ✍️ Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
