@@ -10,9 +10,9 @@ Electrical Engineering Undergrad @ NUST SEECS. 🚀 Exploring the world of AI Au
 | :---: | :---: |
 | ![](https://github-readme-stats.shion.dev/api?username=Hamood-pixel&show_icons=true&theme=radical&hide_border=true) | ![](https://streak-stats.demolab.com?user=Hamood-pixel&theme=radical&hide_border=true) |
 
-| 🌌 Aesthetic Pulse | 💻 Most Used Languages |
+| 🌑 The Deep Space | 💻 Top Languages |
 | :---: | :---: |
-| <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="300px" height="auto" /> | ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hamood-pixel&theme=radical&layout=compact&hide_border=true) |
+| <img src="https://media.giphy.com/media/3o7TKVUn7iM8FMEU24/giphy.gif" width="300px" /> | ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hamood-pixel&theme=radical&layout=compact&hide_border=true) |
 
 ---
 ### ✍️ Random Dev Quote
