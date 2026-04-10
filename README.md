@@ -12,7 +12,7 @@ Electrical Engineering Undergrad @ NUST SEECS. 🚀 Exploring the world of AI Au
 
 | 🌌 Warp Speed | 💻 Top Languages |
 | :---: | :---: |
-| <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJibjVqZ3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTfuxV79mE+3K0/giphy.gif" width="300px" height="285px" style="border-radius:10px;" /> | ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hamood-pixel&theme=radical&layout=donut&hide_border=true) |
+| <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueG94bmM4Znd4bmM4Znd4bmM4Znd4bmM4Znd4bmM4Znd4bmM4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKVUn7iM8FMEU24/giphy.gif" width="350px" /> | ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hamood-pixel&theme=radical&layout=donut&hide_border=true) |
 
 ---
 ### ✍️ Random Dev Quote
