@@ -7,18 +7,14 @@ Electrical Engineering Undergrad @ NUST SEECS. 🚀 Exploring the world of AI Au
 # 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamood-pixel&show_icons=true&theme=dark&hide_border=false" alt="Hamood's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamood-pixel&show_icons=true&theme=radical" alt="Hamood's Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamood-pixel&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamood-pixel&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamood-pixel&theme=radical&layout=compact" alt="Top Languages" />
 </p>
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hamood-pixel&icon=0&color=0)](https://visitcount.itsvg.in)
